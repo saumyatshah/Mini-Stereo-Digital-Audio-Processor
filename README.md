@@ -23,8 +23,9 @@ The core architecture features a custom two-channel Finite Impulse Response (FIR
 ## Technical Details
 ### Tools and Technologies
 - **Languages:** Verilog
-- **Synthesis Tool:** Design Vision
+- **Synthesis Tool:** Design Vision, Genus
 - **Simulation Tool:** ModelSim
+- **Place n Route Tool:** Innovus
 
 ### Architecture
 - **ALU:** Handles arithmetic and logic operations.
